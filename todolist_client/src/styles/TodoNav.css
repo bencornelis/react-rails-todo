@@ -1,0 +1,7 @@
+.selected {
+  border: 1px solid green;
+}
+
+.unselected {
+ border: none;
+}

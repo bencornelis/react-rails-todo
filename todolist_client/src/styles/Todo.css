@@ -1,0 +1,8 @@
+.incomplete {
+  font-weight: bold;
+}
+
+.complete {
+  font-weight: lighter;
+  text-decoration: line-through;
+}
